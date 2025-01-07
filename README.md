@@ -3,4 +3,6 @@ Controller is based on Arduino-mini and the multi-turn (1k, 10 rounds) potentiom
 LCD HD44780 2×16 is connected to standard Arduino PINs (12, 11, 5, 4, 3, 2). You can use I2C line by modyfing the arduino code. Potentiometer is connected to Arduino pin (A0).
 The servo driving is done with pin 9.
 
-This code was originally written by Michal Rinott & Scott Fitzgerald
+This code was originally written by Michal Rinott & Scott Fitzgerald.
+
+More informations available at: http://sp5tof.qrz.pl/
