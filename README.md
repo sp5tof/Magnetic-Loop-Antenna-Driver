@@ -6,3 +6,6 @@ The servo control is connected to pin 9.
 This code was originally written by Michal Rinott & Scott Fitzgerald.
 
 More informations available at: http://sp5tof.qrz.pl/
+
+![image](https://github.com/user-attachments/assets/b96d6dff-18a6-4718-ac4f-21bdcd524468)
+
